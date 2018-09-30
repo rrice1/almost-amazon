@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+
+.cart{
+    width: 400px;
+    height: 300px;
+}
+
+.imgContainer{
+    z-index: 3000;
+
+}
